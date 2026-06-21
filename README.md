@@ -121,19 +121,6 @@ npm install
 npm run dev
 ```
 
----
-
-## Demo Credentials
-
-| Role | Email | Password |
-|------|--------|----------|
-| Admin | admin@srmktr.edu.in | Admin@123 |
-| Staff | rajan.electric@srmktr.edu.in | Staff@123 |
-| Student | Register a new account |
-
-> Change the default credentials before deploying the application in any production environment.
-
----
 
 ## Future Enhancements
 
