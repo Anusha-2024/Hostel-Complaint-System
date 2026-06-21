@@ -1,6 +1,6 @@
 # SRM KTR Hostel Complaint Management System
 
-A full-stack web application designed to streamline hostel complaint management at SRM Institute of Science and Technology, Kattankulathur. The platform enables students to report issues, track complaint progress, and receive updates, while hostel administrators and maintenance staff can efficiently manage assignments, resolutions, and performance metrics.
+A full-stack web application designed to streamline hostel complaint management at SRM Institute of Science and Technology, Kattankulathur. The platform enables students to report issues, track complaint progress, and receive updates, while hostel administrators and maintenance staff can efficiently manage assignments, resolutions, and performance metrics. 
 
 ---
 
