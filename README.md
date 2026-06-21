@@ -135,3 +135,12 @@ npm run dev
 ## Project Outcome
 
 The Hostel Complaint Management System improves transparency, accountability, and operational efficiency in hostel maintenance management. By providing a structured workflow for complaint handling, the platform reduces resolution delays, enhances communication between stakeholders, and delivers actionable insights through analytics and reporting.
+
+  ## 📩 Contact
+- Created by Anusha
+- 📧 Gmail: krianusha09@gmail.com
+
+---
+
+## 📄 License
+- This project is licensed under the MIT License.
